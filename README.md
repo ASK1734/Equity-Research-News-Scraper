@@ -37,8 +37,5 @@ pip install requests beautifulsoup4 brotli pytz
 3. **View Results**: The script will display a list of news articles related to your query.
 
 ## Limitations
-Please note that the script currently only supports news retrieval from China Times. Future updates may include additional sources.
-
-## Contribution
-Your feedback and contributions are welcome. If you have suggestions for improvements or have identified issues, please open a ticket in the issue tracker.
+Please note that the script currently only supports news retrieval from Annue. Future updates may include additional sources.
 
